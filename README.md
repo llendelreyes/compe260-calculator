@@ -1,1 +1,0 @@
-# compe260-calculator
